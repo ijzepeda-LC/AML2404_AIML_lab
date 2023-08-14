@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+_datasets/
+./_datasets/
+*.zip
+*.h5
+
+_datasets/
+model_weights/
+models_weights/
+Divya-git-Actor/
